@@ -1,4 +1,15 @@
-<h1 align="left">C Learning - Portfolio</h1>
-<p align="left">Um Backup de arquivos do meu aprendizado de C usando o terminal</p>
+# C Learning - Portfolio
+> um backup simples de arquivos durante meu estudo de C, no terminal.
 
-<img src="https://img.shields.io/static/v1?label=Status: &message=Runing&color=7159c1&style=for-the-badge&logo=ghost"/> [![Twitter Badge](https://img.shields.io/badge/-@ehramai-1ca0f1?&style=for-the-badge&logo=ghost
+Ao longo do tempo, irei adicionar alguns exemplos de estruturas de dados, algortimos e talvez samples de projetos usando outros frameworks. Porém, o objetivo é "documentar" meu progresso aprendendo C de forma "raiz".
+
+![](/header.webp)
+
+## Clone e jogue no seu gitbash:
+```sh
+https://github.com/Ramalh0z/c-portfolio.git
+```
+
+_Qualquer ajuda/dica é bem vinda!_
+
+Twitter: [@ehramai](https://twitter.com/ehramai)
