@@ -3,7 +3,7 @@
 
 Ao longo do tempo, irei adicionar alguns exemplos de estruturas de dados, algortimos e talvez samples de projetos usando outros frameworks. Porém, o objetivo é "documentar" meu progresso aprendendo C de forma "raiz".
 
-![](/header.webp)
+![](/header.png)
 
 ## Clone e jogue no seu gitbash:
 ```sh
