@@ -1,5 +1,5 @@
 <h1 align="left">C Learning - Portfolio</h1>
-<p align="center">Um Backup de arquivos do meu aprendizado de C usando o terminal</p>
+<p align="left">Um Backup de arquivos do meu aprendizado de C usando o terminal</p>
 
 <img src="https://img.shields.io/static/v1?label=Status: &message=Runing&color=7159c1&style=for-the-badge&logo=ghost"/>
 
